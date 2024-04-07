@@ -1,0 +1,1 @@
+msgbox "win32.dill 파일을 여는중 오류가 발생했습니다",16,"error"
